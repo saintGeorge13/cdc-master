@@ -1,0 +1,3216 @@
+﻿{
+     "status": true,
+     "namemap": {
+          "Afghanistan": "阿富汗",
+          "Angola": "安哥拉",
+          "Albania": "阿尔巴尼亚",
+          "Algeria": "阿尔及利亚",
+          "Argentina": "阿根廷",
+          "Armenia": "亚美尼亚",
+          "Australia": "澳大利亚",
+          "Austria": "奥地利",
+          "Azerbaijan": "阿塞拜疆",
+          "Bahamas": "巴哈马",
+          "Bangladesh": "孟加拉国",
+          "Belgium": "比利时",
+          "Benin": "贝宁",
+          "Burkina Faso": "布基纳法索",
+          "Burundi": "布隆迪",
+          "Bulgaria": "保加利亚",
+          "Bosnia and Herz.": "波斯尼亚和黑塞哥维那",
+          "Belarus": "白俄罗斯",
+          "Belize": "伯利兹",
+          "Bermuda": "百慕大群岛",
+          "Bolivia": "玻利维亚",
+          "Brazil": "巴西",
+          "Brunei": "文莱",
+          "Bhutan": "不丹",
+          "Botswana": "博茨瓦纳",
+          "Cambodia": "柬埔寨",
+          "Cameroon": "喀麦隆",
+          "Canada": "加拿大",
+          "Central African Rep.": "中非共和国",
+          "Chad": "乍得",
+          "Chile": "智利",
+          "China": "中国",
+          "Colombia": "哥伦比亚",
+          "Congo": "刚果",
+          "Costa Rica": "哥斯达黎加",
+          "Côte d'Ivoire": "科特迪瓦",
+          "Croatia": "克罗地亚",
+          "Cuba": "古巴",
+          "Cyprus": "塞浦路斯",
+          "Czech Rep.": "捷克共和国",
+          "Dem. Rep. Korea": "韩国",
+          "Dem. Rep. Congo": "民主刚果",
+          "Democratic Republic of the Congo": "民主刚果",
+          "Denmark": "丹麦",
+          "Djibouti": "吉布提",
+          "Dominican Rep.": "多米尼加共和国",
+          "Ecuador": "厄瓜多尔",
+          "Egypt": "埃及",
+          "El Salvador": "萨尔瓦多",
+          "Eq. Guinea": "赤道几内亚",
+          "The Republic of Equatorial Guinea": "赤道几内亚",
+          "Eritrea": "厄立特里亚",
+          "Estonia": "爱沙尼亚",
+          "Ethiopia": "埃塞俄比亚",
+          "Falkland Is.": "福克兰群岛",
+          "Fiji": "斐济",
+          "Finland": "芬兰",
+          "France": "法国",
+          "French Guiana": "法属圭亚那",
+          "Fr. S. Antarctic Lands": "法属南部领地",
+          "Gabon": "加蓬",
+          "Gambia": "冈比亚",
+          "Germany": "德国",
+          "Georgia": "佐治亚州",
+          "Ghana": "加纳",
+          "Greece": "希腊",
+          "Greenland": "格陵兰",
+          "Guatemala": "危地马拉",
+          "Guinea": "几内亚",
+          "Guinea-Bissau": "几内亚比绍",
+          "Guyana": "圭亚那",
+          "Haiti": "海地",
+          "Heard I. and McDonald Is.": "赫德岛和麦克唐纳群岛",
+          "Honduras": "洪都拉斯",
+          "Hungary": "匈牙利",
+          "Iceland": "冰岛",
+          "India": "印度",
+          "Indonesia": "印度尼西亚",
+          "Iran": "伊朗",
+          "Iraq": "伊拉克",
+          "Ireland": "爱尔兰",
+          "Israel": "以色列",
+          "Italy": "意大利",
+          "Ivory Coast": "象牙海岸",
+          "Jamaica": "牙买加",
+          "Japan": "日本",
+          "Jordan": "乔丹",
+          "Kashmir": "克什米尔",
+          "Kazakhstan": "哈萨克斯坦",
+          "Kenya": "肯尼亚",
+          "Kosovo": "科索沃",
+          "Kuwait": "科威特",
+          "Kyrgyzstan": "吉尔吉斯斯坦",
+          "Laos": "老挝",
+          "Lao PDR": "老挝人民民主共和国",
+          "Latvia": "拉脱维亚",
+          "Lebanon": "黎巴嫩",
+          "Lesotho": "莱索托",
+          "Liberia": "利比里亚",
+          "Libya": "利比亚",
+          "Lithuania": "立陶宛",
+          "Luxembourg": "卢森堡",
+          "Madagascar": "马达加斯加",
+          "Macedonia": "马其顿",
+          "Malawi": "马拉维",
+          "Malaysia": "马来西亚",
+          "Mali": "马里",
+          "The Islamic Republic of Mauritania": "毛里塔尼亚",
+          "Mauritania": "毛里塔尼亚",
+          "Mexico": "墨西哥",
+          "Moldova": "摩尔多瓦",
+          "Mongolia": "蒙古",
+          "Montenegro": "黑山",
+          "Morocco": "摩洛哥",
+          "Mozambique": "莫桑比克",
+          "Myanmar": "缅甸",
+          "Namibia": "纳米比亚",
+          "Netherlands": "荷兰",
+          "New Caledonia": "新喀里多尼亚",
+          "New Zealand": "新西兰",
+          "Nepal": "尼泊尔",
+          "Nicaragua": "尼加拉瓜",
+          "Niger": "尼日尔",
+          "Nigeria": "尼日利亚",
+          "Korea": "朝鲜",
+          "Northern Cyprus": "北塞浦路斯",
+          "Norway": "挪威",
+          "Oman": "阿曼",
+          "Pakistan": "巴基斯坦",
+          "Panama": "巴拿马",
+          "Papua New Guinea": "巴布亚新几内亚",
+          "Paraguay": "巴拉圭",
+          "Peru": "秘鲁",
+          "Republic of the Congo": "刚果共和国",
+          "Philippines": "菲律宾",
+          "Poland": "波兰",
+          "Portugal": "葡萄牙",
+          "Puerto Rico": "波多黎各",
+          "Qatar": "卡塔尔",
+          "Republic of Serbia": "塞尔维亚共和国",
+          "Romania": "罗马尼亚",
+          "Russia": "俄罗斯",
+          "Rwanda": "卢旺达",
+          "Samoa": "萨摩亚",
+          "Saudi Arabia": "沙特阿拉伯",
+          "Senegal": "塞内加尔",
+          "Serbia": "塞尔维亚",
+          "Sierra Leone": "塞拉利昂",
+          "Slovakia": "斯洛伐克",
+          "Slovenia": "斯洛文尼亚",
+          "Solomon Is.": "所罗门群岛",
+          "Somaliland": "索马里兰",
+          "Somalia": "索马里",
+          "South Africa": "南非",
+          "S. Geo. and S. Sandw. Is.": "南乔治亚和南桑德威奇群岛",
+          "S. Sudan": "南苏丹",
+          "Spain": "西班牙",
+          "Sri Lanka": "斯里兰卡",
+          "SriLanka": "斯里兰卡",
+          "Sudan": "苏丹",
+          "Suriname": "苏里南",
+          "Swaziland": "斯威士兰",
+          "Sweden": "瑞典",
+          "Switzerland": "瑞士",
+          "Syria": "叙利亚",
+          "Tajikistan": "塔吉克斯坦",
+          "Tanzania": "坦桑尼亚",
+          "Thailand": "泰国",
+          "Timor-Leste": "东帝汶",
+          "Togo": "多哥",
+          "Trinidad and Tobago": "特立尼达和多巴哥",
+          "Tunisia": "突尼斯",
+          "Turkey": "土耳其",
+          "Turkmenistan": "土库曼斯坦",
+          "Uganda": "乌干达",
+          "Ukraine": "乌克兰",
+          "United Arab Emirates": "阿拉伯联合酋长国",
+          "United Kingdom": "大不列颠联合王国",
+          "United Republic of Tanzania": "坦桑尼亚联合共和国",
+          "United States of America": "美国",
+          "United States": "美国",
+          "Uruguay": "乌拉圭",
+          "Uzbekistan": "乌兹别克斯坦",
+          "Vanuatu": "瓦努阿图",
+          "Venezuela": "委内瑞拉",
+          "Vietnam": "越南",
+          "West Bank": "西岸",
+          "W. Sahara": "西撒哈拉",
+          "Yemen": "也门",
+          "Zambia": "赞比亚",
+          "Zimbabwe": "津巴布韦"
+     },
+     "chinamap": {
+          "xianggang": "香港",
+          "taiwan": "台湾",
+          "jilin": "吉林",
+          "neimenggu": "内蒙古",
+          "shanghai": "上海",
+          "hubei": "湖北",
+          "beijing": "北京",
+          "guangdong": "广东",
+          "liaoning": "辽宁",
+          "sichuan": "四川",
+          "tianjin": "天津",
+          "shandong": "山东",
+          "shanxi": "山西",
+          "shaanxi": "陕西",
+          "hainan": "海南",
+          "henan": "河南",
+          "zhejiang": "浙江",
+          "hunan": "湖南",
+          "anhui": "安徽",
+          "heilongjiang": "黑龙江",
+          "jiangxi": "江西",
+          "jiangsu": "江苏",
+          "chongqing": "重庆",
+          "fujian": "福建",
+          "hebei": "河北",
+          "guangxi": "广西",
+          "yunnan": "云南",
+          "guizhou": "贵州",
+          "xinjiang": "新疆",
+          "ningxia": "宁夏",
+          "aomen": "澳门",
+          "qinghai": "青海",
+          "xizang": "西藏",
+          "gansu": "甘肃"
+     },
+     "chinaList": [
+          {
+               "label": "北京",
+               "value": "2-1-1"
+          },
+          {
+               "label": "上海",
+               "value": "2-1-2"
+          },
+          {
+               "label": "天津",
+               "value": "2-1-3"
+          },
+          {
+               "label": "重庆",
+               "value": "2-1-4"
+          },
+          {
+               "label": "内蒙古",
+               "value": "2-1-5",
+               "children": [
+                    {
+                         "value":"2-1-5-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-5-1",
+                         "label": "呼和浩特市",
+                         "name": "huhehaote"
+                    },
+                    {
+                         "value": "2-1-5-2",
+                         "label": "包头市",
+                         "name": "baotou"
+                    },
+                    {
+                         "value": "2-1-5-3",
+                         "label": "乌海市",
+                         "name": "wuhaishi"
+                    },
+                    {
+                         "value": "2-1-5-4",
+                         "label": "赤峰市",
+                         "name": "chifeng"
+                    },
+                    {
+                         "value": "2-1-5-5",
+                         "label": "呼伦贝尔市",
+                         "name": "hulunbeier"
+                    },
+                    {
+                         "value": "2-1-5-6",
+                         "label": "通辽市",
+                         "name": "tongliao"
+                    },
+                    {
+                         "value": "2-1-5-7",
+                         "label": "乌兰察布市",
+                         "name": "wulanchabu"
+                    },
+                    {
+                         "value": "2-1-5-8",
+                         "label": "鄂尔多斯市",
+                         "name": "eerduodi"
+                    },
+                    {
+                         "value": "2-1-5-9",
+                         "label": "巴彦淖尔市",
+                         "name": "bayannaoer"
+                    },
+                    {
+                         "value": "2-1-5-10",
+                         "label": "锡林郭勒盟市",
+                         "name": "xilinguoleimeng"
+                    },
+                    {
+                         "value": "2-1-5-11",
+                         "label": "兴安盟市",
+                         "name": "xinganmeng"
+                    }
+               ]
+          },
+          {
+               "label": "山西",
+               "value": "2-1-6",
+               "children": [
+                    {
+                         "value":"2-1-6-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-6-1",
+                         "label": "太原市",
+                         "name": "taiyuan"
+                    },
+                    {
+                         "value": "2-1-6-2",
+                         "label": "大同市",
+                         "name": "datong"
+                    },
+                    {
+                         "value": "2-1-6-3",
+                         "label": "朔州市",
+                         "name": "shuozhou"
+                    },
+                    {
+                         "value": "2-1-6-4",
+                         "label": "阳泉市",
+                         "name": "yangquan"
+                    },
+                    {
+                         "value": "2-1-6-5",
+                         "label": "长治市",
+                         "name": "zhangzhi"
+                    },
+                    {
+                         "value": "2-1-6-6",
+                         "label": "晋城市",
+                         "name": "jincheng"
+                    },
+                    {
+                         "value": "2-1-6-7",
+                         "label": "忻州市",
+                         "name": "xinzhou"
+                    },
+                    {
+                         "value": "2-1-6-8",
+                         "label": "吕梁市",
+                         "name": "lvliang"
+                    },
+                    {
+                         "value": "2-1-6-9",
+                         "label": "晋中市",
+                         "name": "jinzhong"
+                    },
+                    {
+                         "value": "2-1-6-10",
+                         "label": "临汾市",
+                         "name": "linfen"
+                    },
+                    {
+                         "value": "2-1-6-11",
+                         "label": "运城市",
+                         "name": "yuncheng"
+                    }
+               ]
+          },
+          {
+               "label": "河北",
+               "value": "2-1-7",
+               "children": [
+                    {
+                         "value":"2-1-7-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-7-1",
+                         "label": "石家庄市",
+                         "name": "shijiazhuang"
+                    },
+                    {
+                         "value": "2-1-7-2",
+                         "label": "邯郸市",
+                         "name": "handan"
+                    },
+                    {
+                         "value": "2-1-7-3",
+                         "label": "唐山市",
+                         "name": "tangshan"
+                    },
+                    {
+                         "value": "2-1-7-4",
+                         "label": "保定市",
+                         "name": "baoding"
+                    },
+                    {
+                         "value": "2-1-7-5",
+                         "label": "秦皇岛市",
+                         "name": "qinhuangdao"
+                    },
+                    {
+                         "value": "2-1-7-6",
+                         "label": "邢台市",
+                         "name": "xingtai"
+                    },
+                    {
+                         "value": "2-1-7-7",
+                         "label": "张家口市",
+                         "name": "zhangjiakou"
+                    },
+                    {
+                         "value": "2-1-7-8",
+                         "label": "承德市",
+                         "name": "chengde"
+                    },
+                    {
+                         "value": "2-1-7-9",
+                         "label": "沧州市",
+                         "name": "cangzhou"
+                    },
+                    {
+                         "value": "2-1-7-10",
+                         "label": "廊坊市",
+                         "name": "langfang"
+                    },
+                    {
+                         "value": "2-1-7-11",
+                         "label": "衡水市",
+                         "name": "hengshui"
+                    }
+               ]
+          },
+          {
+               "label": "辽宁",
+               "value": "2-1-8",
+               "children": [
+                    {
+                         "value":"2-1-8-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-8-1",
+                         "label": "沈阳市",
+                         "name": "shenyang"
+                    },
+                    {
+                         "value": "2-1-8-2",
+                         "label": "大连市",
+                         "name": "dalian"
+                    },
+                    {
+                         "value": "2-1-8-3",
+                         "label": "锦州市",
+                         "name": "jinzhou"
+                    },
+                    {
+                         "value": "2-1-8-4",
+                         "label": "葫芦岛市",
+                         "name": "huludao"
+                    },
+                    {
+                         "value": "2-1-8-5",
+                         "label": "丹东市",
+                         "name": "dandong"
+                    },
+                    {
+                         "value": "2-1-8-6",
+                         "label": "盘锦市",
+                         "name": "panjin"
+                    },
+                    {
+                         "value": "2-1-8-7",
+                         "label": "阜新市",
+                         "name": "fuxin"
+                    },
+                    {
+                         "value": "2-1-8-8",
+                         "label": "铁岭市",
+                         "name": "tieling"
+                    },
+                    {
+                         "value": "2-1-8-9",
+                         "label": "朝阳市",
+                         "name": "zhaoyang"
+                    },
+                    {
+                         "value": "2-1-8-10",
+                         "label": "鞍山市",
+                         "name": "anshan"
+                    },
+                    {
+                         "value": "2-1-8-11",
+                         "label": "本溪市",
+                         "name": "benxi"
+                    },
+                    {
+                         "value": "2-1-8-12",
+                         "label": "辽阳市",
+                         "name": "liaoyang"
+                    },
+                    {
+                         "value": "2-1-8-13",
+                         "label": "营口市",
+                         "name": "yingkou"
+                    },
+                    {
+                         "value": "2-1-8-14",
+                         "label": "抚顺市",
+                         "name": "fushun"
+                    },
+                    {
+                         "value": "2-1-8-15",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "吉林",
+               "value": "2-1-9",
+               "children": [
+                    {
+                         "value":"2-1-9-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-9-1",
+                         "label": "长春市",
+                         "name": "changchun"
+                    },
+                    {
+                         "value": "2-1-9-2",
+                         "label": "吉林市",
+                         "name": "jilinshi"
+                    },
+                    {
+                         "value": "2-1-9-3",
+                         "label": "四平市",
+                         "name": "sipingshi"
+                    },
+                    {
+                         "value": "2-1-9-4",
+                         "label": "辽源市",
+                         "name": "liaoyuan"
+                    },
+                    {
+                         "value": "2-1-9-5",
+                         "label": "延边市",
+                         "name": "yanbian"
+                    },
+                    {
+                         "value": "2-1-9-6",
+                         "label": "公主岭市",
+                         "name": "gongzhuling"
+                    },
+                    {
+                         "value": "2-1-9-7",
+                         "label": "通化市",
+                         "name": "tonghua"
+                    },
+                    {
+                         "value": "2-1-9-8",
+                         "label": "松原市",
+                         "name": "songyuan"
+                    },
+                    {
+                         "value": "2-1-9-9",
+                         "label": "梅河口市",
+                         "name": "meihekou"
+                    },
+                    {
+                         "value": "2-1-9-10",
+                         "label": "白城市",
+                         "name": "baicheng"
+                    }
+               ]
+          },
+          {
+               "label": "黑龙江",
+               "value": "2-1-10",
+               "children": [
+                    {
+                         "value":"2-1-10-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-10-1",
+                         "label": "哈尔滨市",
+                         "name": "haerbin"
+                    },
+                    {
+                         "value": "2-1-10-2",
+                         "label": "牡丹江市",
+                         "name": "mudanjiang"
+                    },
+                    {
+                         "value": "2-1-10-3",
+                         "label": "大庆市",
+                         "name": "daqing"
+                    },
+                    {
+                         "value": "2-1-10-4",
+                         "label": "双鸭山市",
+                         "name": "shuangyashan"
+                    },
+                    {
+                         "value": "2-1-10-5",
+                         "label": "绥化市",
+                         "name": "suihua"
+                    },
+                    {
+                         "value": "2-1-10-6",
+                         "label": "鸡西市",
+                         "name": "jixi"
+                    },
+                    {
+                         "value": "2-1-10-7",
+                         "label": "齐齐哈尔市",
+                         "name": "qiqihaer"
+                    },
+                    {
+                         "value": "2-1-10-8",
+                         "label": "七台河市",
+                         "name": "qitaihe"
+                    },
+                    {
+                         "value": "2-1-10-9",
+                         "label": "佳木斯市",
+                         "name": "jiamusi"
+                    },
+                    {
+                         "value": "2-1-10-10",
+                         "label": "黑河市",
+                         "name": "heihe"
+                    },
+                    {
+                         "value": "2-1-10-11",
+                         "label": "鹤岗市",
+                         "name": "hegang"
+                    },
+                    {
+                         "value": "2-1-10-12",
+                         "label": "大兴安岭市",
+                         "name": "daxinganling"
+                    },
+                    {
+                         "value": "2-1-10-13",
+                         "label": "伊春市",
+                         "name": "yichun"
+                    },
+                    {
+                         "value": "2-1-10-14",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "江苏",
+               "value": "2-1-11",
+               "children": [
+                    {
+                         "value":"2-1-11-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-11-1",
+                         "label": "南京市",
+                         "name": "nanjing"
+                    },
+                    {
+                         "value": "2-1-11-2",
+                         "label": "苏州市",
+                         "name": "suzhou"
+                    },
+                    {
+                         "value": "2-1-11-3",
+                         "label": "徐州市",
+                         "name": "xuzhou"
+                    },
+                    {
+                         "value": "2-1-11-4",
+                         "label": "淮安市",
+                         "name": "huaian"
+                    },
+                    {
+                         "value": "2-1-11-5",
+                         "label": "无锡市",
+                         "name": "wuxi"
+                    },
+                    {
+                         "value": "2-1-11-6",
+                         "label": "常州市",
+                         "name": "changzhou"
+                    },
+                    {
+                         "value": "2-1-11-7",
+                         "label": "连云港市",
+                         "name": "lianyungang"
+                    },
+                    {
+                         "value": "2-1-11-8",
+                         "label": "南通市",
+                         "name": "nantong"
+                    },
+                    {
+                         "value": "2-1-11-9",
+                         "label": "泰州市",
+                         "name": "taizhou"
+                    },
+                    {
+                         "value": "2-1-11-10",
+                         "label": "盐城市",
+                         "name": "yancheng"
+                    },
+                    {
+                         "value": "2-1-11-11",
+                         "label": "扬州市",
+                         "name": "yangzhou"
+                    },
+                    {
+                         "value": "2-1-11-12",
+                         "label": "宿迁市",
+                         "name": "suqian"
+                    },
+                    {
+                         "value": "2-1-11-13",
+                         "label": "镇江市",
+                         "name": "zhenjiang"
+                    },
+                    {
+                         "value": "2-1-11-14",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "安徽",
+               "value": "2-1-12",
+               "children": [
+                    {
+                         "value":"2-1-12-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-12-1",
+                         "label": "合肥市",
+                         "name": "hefei"
+                    },
+                    {
+                         "value": "2-1-12-2",
+                         "label": "蚌埠市",
+                         "name": "bengbu"
+                    },
+                    {
+                         "value": "2-1-12-3",
+                         "label": "阜阳市",
+                         "name": "fuyang"
+                    },
+                    {
+                         "value": "2-1-12-4",
+                         "label": "亳州市",
+                         "name": "bozhou"
+                    },
+                    {
+                         "value": "2-1-12-5",
+                         "label": "安庆市",
+                         "name": "anqing"
+                    },
+                    {
+                         "value": "2-1-12-6",
+                         "label": "六安市",
+                         "name": "luan"
+                    },
+                    {
+                         "value": "2-1-12-7",
+                         "label": "宿州市",
+                         "name": "suzhou"
+                    },
+                    {
+                         "value": "2-1-12-8",
+                         "label": "马鞍山市",
+                         "name": "maanshan"
+                    },
+                    {
+                         "value": "2-1-12-9",
+                         "label": "芜湖市",
+                         "name": "wuhu"
+                    },
+                    {
+                         "value": "2-1-12-10",
+                         "label": "铜陵市",
+                         "name": "tongling"
+                    },
+                    {
+                         "value": "2-1-12-11",
+                         "label": "淮北市",
+                         "name": "huaibei"
+                    },
+                    {
+                         "value": "2-1-12-12",
+                         "label": "淮南市",
+                         "name": "huainan"
+                    },
+                    {
+                         "value": "2-1-12-13",
+                         "label": "池州市",
+                         "name": "chizhou"
+                    },
+                    {
+                         "value": "2-1-12-14",
+                         "label": "滁州市",
+                         "name": "chuzhou"
+                    },
+                    {
+                         "value": "2-1-12-15",
+                         "label": "黄山市",
+                         "name": "huangshan"
+                    },
+                    {
+                         "value": "2-1-12-16",
+                         "label": "宣城市",
+                         "name": "xuancheng"
+                    }
+               ]
+          },
+          {
+               "label": "山东",
+               "value": "2-1-13",
+               "children": [
+                    {
+                         "value":"2-1-13-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-13-1",
+                         "label": "青岛市",
+                         "name": "qingdao"
+                    },
+                    {
+                         "value": "2-1-13-2",
+                         "label": "济宁市",
+                         "name": "jining"
+                    },
+                    {
+                         "value": "2-1-13-3",
+                         "label": "临沂市",
+                         "name": "linyi"
+                    },
+                    {
+                         "value": "2-1-13-4",
+                         "label": "济南市",
+                         "name": "jinan"
+                    },
+                    {
+                         "value": "2-1-13-5",
+                         "label": "烟台市",
+                         "name": "yantai"
+                    },
+                    {
+                         "value": "2-1-13-6",
+                         "label": "潍坊市",
+                         "name": "weifang"
+                    },
+                    {
+                         "value": "2-1-13-7",
+                         "label": "威海市",
+                         "name": "weihai"
+                    },
+                    {
+                         "value": "2-1-13-8",
+                         "label": "聊城市",
+                         "name": "liaocheng"
+                    },
+                    {
+                         "value": "2-1-13-9",
+                         "label": "德州市",
+                         "name": "dezhou"
+                    },
+                    {
+                         "value": "2-1-13-10",
+                         "label": "泰安市",
+                         "name": "taian"
+                    },
+                    {
+                         "value": "2-1-13-11",
+                         "label": "淄博市",
+                         "name": "zibo"
+                    },
+                    {
+                         "value": "2-1-13-12",
+                         "label": "枣庄市",
+                         "name": "zaozhuang"
+                    },
+                    {
+                         "value": "2-1-13-13",
+                         "label": "菏泽市",
+                         "name": "heze"
+                    },
+                    {
+                         "value": "2-1-13-14",
+                         "label": "日照市",
+                         "name": "rizhao"
+                    },
+                    {
+                         "value": "2-1-13-15",
+                         "label": "滨州市",
+                         "name": "binzhou"
+                    },
+                    {
+                         "value": "2-1-13-16",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "浙江",
+               "value": "2-1-14",
+               "children": [
+                    {
+                         "value":"2-1-14-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-14-1",
+                         "label": "温州市",
+                         "name": "wenzhou"
+                    },
+                    {
+                         "value": "2-1-14-2",
+                         "label": "杭州市",
+                         "name": "hangzhou"
+                    },
+                    {
+                         "value": "2-1-14-3",
+                         "label": "宁波市",
+                         "name": "ningbo"
+                    },
+                    {
+                         "value": "2-1-14-4",
+                         "label": "台州市",
+                         "name": "taizhou"
+                    },
+                    {
+                         "value": "2-1-14-5",
+                         "label": "金华市",
+                         "name": "jinhua"
+                    },
+                    {
+                         "value": "2-1-14-6",
+                         "label": "嘉兴市",
+                         "name": "jiaxing"
+                    },
+                    {
+                         "value": "2-1-14-7",
+                         "label": "绍兴市",
+                         "name": "shaoxing"
+                    },
+                    {
+                         "value": "2-1-14-8",
+                         "label": "丽水市",
+                         "name": "lishui"
+                    },
+                    {
+                         "value": "2-1-14-9",
+                         "label": "衢州市",
+                         "name": "quzhou"
+                    },
+                    {
+                         "value": "2-1-14-10",
+                         "label": "湖州市",
+                         "name": "huzhou"
+                    },
+                    {
+                         "value": "2-1-14-11",
+                         "label": "舟山市",
+                         "name": "zhoushan"
+                    },
+                    {
+                         "value": "2-1-14-12",
+                         "label": "省十里丰监狱",
+                         "name": "shengshilifengjianyu"
+                    },
+                    {
+                         "value": "2-1-14-13",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "江西",
+               "value": "2-1-15",
+               "children": [
+                    {
+                         "value":"2-1-15-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-15-1",
+                         "label": "南昌市",
+                         "name": "nanchang"
+                    },
+                    {
+                         "value": "2-1-15-2",
+                         "label": "新余市",
+                         "name": "xinyu"
+                    },
+                    {
+                         "value": "2-1-15-3",
+                         "label": "上饶市",
+                         "name": "shangrao"
+                    },
+                    {
+                         "value": "2-1-15-4",
+                         "label": "九江市",
+                         "name": "jiujiang"
+                    },
+                    {
+                         "value": "2-1-15-5",
+                         "label": "宜春市",
+                         "name": "yichun"
+                    },
+                    {
+                         "value": "2-1-15-6",
+                         "label": "赣州市",
+                         "name": "ganzhou"
+                    },
+                    {
+                         "value": "2-1-15-7",
+                         "label": "抚州市",
+                         "name": "fuzhou"
+                    },
+                    {
+                         "value": "2-1-15-8",
+                         "label": "萍乡市",
+                         "name": "pingxiang"
+                    },
+                    {
+                         "value": "2-1-15-9",
+                         "label": "吉安市",
+                         "name": "jian"
+                    },
+                    {
+                         "value": "2-1-15-10",
+                         "label": "鹰潭市",
+                         "name": "yingtan"
+                    },
+                    {
+                         "value": "2-1-15-11",
+                         "label": "景德市",
+                         "name": "jingdezhen"
+                    },
+                    {
+                         "value": "2-1-15-12",
+                         "label": "赣江新区市",
+                         "name": "ganjiangxinqu"
+                    },
+                    {
+                         "value": "2-1-15-13",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "福建",
+               "value": "2-1-16",
+               "children": [
+                    {
+                         "value":"2-1-16-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-16-1",
+                         "label": "福州市",
+                         "name": "fuzhou"
+                    },
+                    {
+                         "value": "2-1-16-2",
+                         "label": "莆田市",
+                         "name": "putian"
+                    },
+                    {
+                         "value": "2-1-16-3",
+                         "label": "泉州市",
+                         "name": "quanzhou"
+                    },
+                    {
+                         "value": "2-1-16-4",
+                         "label": "厦门市",
+                         "name": "xiamen"
+                    },
+                    {
+                         "value": "2-1-16-5",
+                         "label": "宁德市",
+                         "name": "ningde"
+                    },
+                    {
+                         "value": "2-1-16-6",
+                         "label": "漳州市",
+                         "name": "zhangzhou"
+                    },
+                    {
+                         "value": "2-1-16-7",
+                         "label": "南平市",
+                         "name": "nanping"
+                    },
+                    {
+                         "value": "2-1-16-8",
+                         "label": "三明市",
+                         "name": "sanming"
+                    },
+                    {
+                         "value": "2-1-16-9",
+                         "label": "龙岩市",
+                         "name": "longyan"
+                    },
+                    {
+                         "value": "2-1-16-10",
+                         "label": "境外输入人员",
+                         "name": "jingwaishururenyuan"
+                    }
+               ]
+          },
+          {
+               "label": "湖南",
+               "value": "2-1-17",
+               "children": [
+                    {
+                         "value":"2-1-17-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-17-1",
+                         "label": "长沙市",
+                         "name": "changsha"
+                    },
+                    {
+                         "value": "2-1-17-2",
+                         "label": "岳阳市",
+                         "name": "yueyang"
+                    },
+                    {
+                         "value": "2-1-17-3",
+                         "label": "邵阳市",
+                         "name": "shaoyang"
+                    },
+                    {
+                         "value": "2-1-17-4",
+                         "label": "常德市",
+                         "name": "changde"
+                    },
+                    {
+                         "value": "2-1-17-5",
+                         "label": "株洲市",
+                         "name": "zhuzhou"
+                    },
+                    {
+                         "value": "2-1-17-6",
+                         "label": "娄底市",
+                         "name": "loudi"
+                    },
+                    {
+                         "value": "2-1-17-7",
+                         "label": "益阳市",
+                         "name": "yiyang"
+                    },
+                    {
+                         "value": "2-1-17-8",
+                         "label": "衡阳市",
+                         "name": "hengyang"
+                    },
+                    {
+                         "value": "2-1-17-9",
+                         "label": "永州市",
+                         "name": "yongzhou"
+                    },
+                    {
+                         "value": "2-1-17-10",
+                         "label": "怀化市",
+                         "name": "huaihua"
+                    },
+                    {
+                         "value": "2-1-17-11",
+                         "label": "郴州市",
+                         "name": "chenzhou"
+                    },
+                    {
+                         "value": "2-1-17-12",
+                         "label": "湘潭市",
+                         "name": "xiangtan"
+                    },
+                    {
+                         "value": "2-1-17-13",
+                         "label": "湘西自治州市",
+                         "name": "xiangxizizhizhou"
+                    },
+                    {
+                         "value": "2-1-17-14",
+                         "label": "张家界市",
+                         "name": "zhangjiajie"
+                    },
+                    {
+                         "value": "2-1-17-15",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "湖北",
+               "value": "2-1-18",
+               "children": [
+                    {
+                         "value":"2-1-18-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-18-1",
+                         "label": "武汉市",
+                         "name": "wuhan"
+                    },
+                    {
+                         "value": "2-1-18-2",
+                         "label": "孝感市",
+                         "name": "xiaogan"
+                    },
+                    {
+                         "value": "2-1-18-3",
+                         "label": "襄阳市",
+                         "name": "xiangyang"
+                    },
+                    {
+                         "value": "2-1-18-4",
+                         "label": "宜昌市",
+                         "name": "yichang"
+                    },
+                    {
+                         "value": "2-1-18-5",
+                         "label": "仙桃市",
+                         "name": "xiantao"
+                    },
+                    {
+                         "value": "2-1-18-6",
+                         "label": "黄冈市",
+                         "name": "huanggang"
+                    },
+                    {
+                         "value": "2-1-18-7",
+                         "label": "荆州市",
+                         "name": "jingzhou"
+                    },
+                    {
+                         "value": "2-1-18-8",
+                         "label": "鄂州市",
+                         "name": "ezhou"
+                    },
+                    {
+                         "value": "2-1-18-9",
+                         "label": "随州市",
+                         "name": "suizhou"
+                    },
+                    {
+                         "value": "2-1-18-10",
+                         "label": "黄石市",
+                         "name": "huangshi"
+                    },
+                    {
+                         "value": "2-1-18-11",
+                         "label": "荆门市",
+                         "name": "jingmen"
+                    },
+                    {
+                         "value": "2-1-18-12",
+                         "label": "咸宁市",
+                         "name": "xianning"
+                    },
+                    {
+                         "value": "2-1-18-13",
+                         "label": "十堰市",
+                         "name": "shiyan"
+                    },
+                    {
+                         "value": "2-1-18-14",
+                         "label": "天门市",
+                         "name": "tianmen"
+                    },
+                    {
+                         "value": "2-1-18-15",
+                         "label": "恩施州市",
+                         "name": "enshizhou"
+                    },
+                    {
+                         "value": "2-1-18-16",
+                         "label": "潜江市",
+                         "name": "qianjiang"
+                    },
+                    {
+                         "value": "2-1-18-17",
+                         "label": "神农架林区市",
+                         "name": "shennongjialinqu"
+                    }
+               ]
+          },
+          {
+               "label": "河南",
+               "value": "2-1-19",
+               "children": [
+                    {
+                         "value":"2-1-19-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-19-1",
+                         "label": "漯河市",
+                         "name": "tahe"
+                    },
+                    {
+                         "value": "2-1-19-2",
+                         "label": "信阳市",
+                         "name": "xinyang"
+                    },
+                    {
+                         "value": "2-1-19-3",
+                         "label": "郑州市",
+                         "name": "zhengzhou"
+                    },
+                    {
+                         "value": "2-1-19-4",
+                         "label": "南阳市",
+                         "name": "nanyang"
+                    },
+                    {
+                         "value": "2-1-19-5",
+                         "label": "驻马店市",
+                         "name": "zhumadian"
+                    },
+                    {
+                         "value": "2-1-19-6",
+                         "label": "商丘市",
+                         "name": "shangqiu"
+                    },
+                    {
+                         "value": "2-1-19-7",
+                         "label": "周口市",
+                         "name": "zhoukou"
+                    },
+                    {
+                         "value": "2-1-19-8",
+                         "label": "平顶山市",
+                         "name": "pingdingshan"
+                    },
+                    {
+                         "value": "2-1-19-9",
+                         "label": "新乡市",
+                         "name": "xinxiang"
+                    },
+                    {
+                         "value": "2-1-19-10",
+                         "label": "安阳市",
+                         "name": "anyang"
+                    },
+                    {
+                         "value": "2-1-19-11",
+                         "label": "许昌市",
+                         "name": "xuchang"
+                    },
+                    {
+                         "value": "2-1-19-12",
+                         "label": "焦作市",
+                         "name": "jiaozuo"
+                    },
+                    {
+                         "value": "2-1-19-13",
+                         "label": "洛阳市",
+                         "name": "luoyang"
+                    },
+                    {
+                         "value": "2-1-19-14",
+                         "label": "开封市",
+                         "name": "kaifeng"
+                    },
+                    {
+                         "value": "2-1-19-15",
+                         "label": "鹤壁市",
+                         "name": "hebi"
+                    },
+                    {
+                         "value": "2-1-19-16",
+                         "label": "濮阳市",
+                         "name": "puyang"
+                    },
+                    {
+                         "value": "2-1-19-17",
+                         "label": "三门峡市",
+                         "name": "sanmenxia"
+                    },
+                    {
+                         "value": "2-1-19-18",
+                         "label": "济源市",
+                         "name": "jiyuan"
+                    },
+                    {
+                         "value": "2-1-19-19",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "广东",
+               "value": "2-1-20",
+               "children": [
+                    {
+                         "value":"2-1-20-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-20-1",
+                         "label": "广州市",
+                         "name": "guangzhou"
+                    },
+                    {
+                         "value": "2-1-20-2",
+                         "label": "深圳市",
+                         "name": "shenzhen"
+                    },
+                    {
+                         "value": "2-1-20-3",
+                         "label": "佛山市",
+                         "name": "foshan"
+                    },
+                    {
+                         "value": "2-1-20-4",
+                         "label": "珠海市",
+                         "name": "zhuhai"
+                    },
+                    {
+                         "value": "2-1-20-5",
+                         "label": "中山市",
+                         "name": "zhongshan"
+                    },
+                    {
+                         "value": "2-1-20-6",
+                         "label": "湛江市",
+                         "name": "zhanjiang"
+                    },
+                    {
+                         "value": "2-1-20-7",
+                         "label": "肇庆市",
+                         "name": "zhaoqing"
+                    },
+                    {
+                         "value": "2-1-20-8",
+                         "label": "梅州市",
+                         "name": "meizhou"
+                    },
+                    {
+                         "value": "2-1-20-9",
+                         "label": "揭阳市",
+                         "name": "jieyang"
+                    },
+                    {
+                         "value": "2-1-20-10",
+                         "label": "潮州市",
+                         "name": "chaozhou"
+                    },
+                    {
+                         "value": "2-1-20-11",
+                         "label": "东莞市",
+                         "name": "dongguan"
+                    },
+                    {
+                         "value": "2-1-20-12",
+                         "label": "惠州市",
+                         "name": "huizhou"
+                    },
+                    {
+                         "value": "2-1-20-13",
+                         "label": "汕头市",
+                         "name": "shantou"
+                    },
+                    {
+                         "value": "2-1-20-14",
+                         "label": "江门市",
+                         "name": "jiangmen"
+                    },
+                    {
+                         "value": "2-1-20-15",
+                         "label": "阳江市",
+                         "name": "yangjiang"
+                    },
+                    {
+                         "value": "2-1-20-16",
+                         "label": "茂名市",
+                         "name": "maoming"
+                    },
+                    {
+                         "value": "2-1-20-17",
+                         "label": "清远市",
+                         "name": "qingyuan"
+                    },
+                    {
+                         "value": "2-1-20-18",
+                         "label": "韶关市",
+                         "name": "shaoguan"
+                    },
+                    {
+                         "value": "2-1-20-19",
+                         "label": "汕尾市",
+                         "name": "shanwei"
+                    },
+                    {
+                         "value": "2-1-20-20",
+                         "label": "河源市",
+                         "name": "heyuan"
+                    }
+               ]
+          },
+          {
+               "label": "海南",
+               "value": "2-1-21",
+               "children": [
+                    {
+                         "value":"2-1-21-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-21-1",
+                         "label": "海口市",
+                         "name": "haikou"
+                    },
+                    {
+                         "value": "2-1-21-2",
+                         "label": "儋州市",
+                         "name": "danzhou"
+                    },
+                    {
+                         "value": "2-1-21-3",
+                         "label": "万宁市",
+                         "name": "wanning"
+                    },
+                    {
+                         "value": "2-1-21-4",
+                         "label": "澄迈市",
+                         "name": "chengmai"
+                    },
+                    {
+                         "value": "2-1-21-5",
+                         "label": "昌江市",
+                         "name": "changjiang"
+                    },
+                    {
+                         "value": "2-1-21-6",
+                         "label": "琼海市",
+                         "name": "qionghai"
+                    },
+                    {
+                         "value": "2-1-21-7",
+                         "label": "临高市",
+                         "name": "lingao"
+                    },
+                    {
+                         "value": "2-1-21-8",
+                         "label": "陵水市",
+                         "name": "lingshui"
+                    },
+                    {
+                         "value": "2-1-21-9",
+                         "label": "定安市",
+                         "name": "dingan"
+                    },
+                    {
+                         "value": "2-1-21-10",
+                         "label": "文昌市",
+                         "name": "wenchang"
+                    },
+                    {
+                         "value": "2-1-21-11",
+                         "label": "东方市",
+                         "name": "dongfang"
+                    },
+                    {
+                         "value": "2-1-21-12",
+                         "label": "保亭市",
+                         "name": "baoting"
+                    },
+                    {
+                         "value": "2-1-21-13",
+                         "label": "乐东市",
+                         "name": "ledong"
+                    },
+                    {
+                         "value": "2-1-21-14",
+                         "label": "琼中市",
+                         "name": "qiongzhong"
+                    },
+                    {
+                         "value": "2-1-21-15",
+                         "label": "三亚市",
+                         "name": "sanya"
+                    }
+               ]
+          },
+          {
+               "label": "广西壮族自治区",
+               "value": "2-1-22",
+               "children": [
+                    {
+                         "value":"2-1-22-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-22-1",
+                         "label": "南宁市",
+                         "name": "nanning"
+                    },
+                    {
+                         "value": "2-1-22-2",
+                         "label": "北海市",
+                         "name": "beihai"
+                    },
+                    {
+                         "value": "2-1-22-3",
+                         "label": "桂林市",
+                         "name": "guilin"
+                    },
+                    {
+                         "value": "2-1-22-4",
+                         "label": "河池市",
+                         "name": "hechi"
+                    },
+                    {
+                         "value": "2-1-22-5",
+                         "label": "柳州市",
+                         "name": "liuzhou"
+                    },
+                    {
+                         "value": "2-1-22-6",
+                         "label": "防城港市",
+                         "name": "fangchenggang"
+                    },
+                    {
+                         "value": "2-1-22-7",
+                         "label": "玉林市",
+                         "name": "yulin"
+                    },
+                    {
+                         "value": "2-1-22-8",
+                         "label": "来宾市",
+                         "name": "laibin"
+                    },
+                    {
+                         "value": "2-1-22-9",
+                         "label": "钦州市",
+                         "name": "qinzhou"
+                    },
+                    {
+                         "value": "2-1-22-10",
+                         "label": "贵港市",
+                         "name": "guigang"
+                    },
+                    {
+                         "value": "2-1-22-11",
+                         "label": "梧州市",
+                         "name": "wuzhou"
+                    },
+                    {
+                         "value": "2-1-22-12",
+                         "label": "贺州市",
+                         "name": "hezhou"
+                    },
+                    {
+                         "value": "2-1-22-13",
+                         "label": "百色市",
+                         "name": "baise"
+                    },
+                    {
+                         "value": "2-1-22-14",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "贵州",
+               "value": "2-1-23",
+               "children": [
+                    {
+                         "value":"2-1-23-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-23-1",
+                         "label": "贵阳市",
+                         "name": "guiyang"
+                    },
+                    {
+                         "value": "2-1-23-2",
+                         "label": "遵义市",
+                         "name": "zunyi"
+                    },
+                    {
+                         "value": "2-1-23-3",
+                         "label": "毕节市",
+                         "name": "bijie"
+                    },
+                    {
+                         "value": "2-1-23-4",
+                         "label": "黔南市",
+                         "name": "qiannanzhou"
+                    },
+                    {
+                         "value": "2-1-23-5",
+                         "label": "六盘水市",
+                         "name": "liupanshui"
+                    },
+                    {
+                         "value": "2-1-23-6",
+                         "label": "铜仁市",
+                         "name": "tongren"
+                    },
+                    {
+                         "value": "2-1-23-7",
+                         "label": "黔东南市",
+                         "name": "qiandongnanzhou"
+                    },
+                    {
+                         "value": "2-1-23-8",
+                         "label": "安顺市",
+                         "name": "anshun"
+                    },
+                    {
+                         "value": "2-1-23-9",
+                         "label": "黔西南市",
+                         "name": "qianxinanzhou"
+                    },
+                    {
+                         "value": "2-1-23-10",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "四川",
+               "value": "2-1-24",
+               "children": [
+                    {
+                         "value":"2-1-24-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-24-1",
+                         "label": "成都市",
+                         "name": "chengdu"
+                    },
+                    {
+                         "value": "2-1-24-2",
+                         "label": "甘孜州市",
+                         "name": "ganzizhou"
+                    },
+                    {
+                         "value": "2-1-24-3",
+                         "label": "绵阳市",
+                         "name": "mianyang"
+                    },
+                    {
+                         "value": "2-1-24-4",
+                         "label": "达州市",
+                         "name": "dazhou"
+                    },
+                    {
+                         "value": "2-1-24-5",
+                         "label": "南充市",
+                         "name": "nanchong"
+                    },
+                    {
+                         "value": "2-1-24-6",
+                         "label": "广安市",
+                         "name": "guangan"
+                    },
+                    {
+                         "value": "2-1-24-7",
+                         "label": "泸州市",
+                         "name": "luzhou"
+                    },
+                    {
+                         "value": "2-1-24-8",
+                         "label": "巴中市",
+                         "name": "bazhong"
+                    },
+                    {
+                         "value": "2-1-24-9",
+                         "label": "内江市",
+                         "name": "neijiang"
+                    },
+                    {
+                         "value": "2-1-24-10",
+                         "label": "德阳市",
+                         "name": "deyang"
+                    },
+                    {
+                         "value": "2-1-24-11",
+                         "label": "遂宁市",
+                         "name": "suining"
+                    },
+                    {
+                         "value": "2-1-24-12",
+                         "label": "攀枝花市",
+                         "name": "panzhihua"
+                    },
+                    {
+                         "value": "2-1-24-13",
+                         "label": "凉山州市",
+                         "name": "liangshanzhou"
+                    },
+                    {
+                         "value": "2-1-24-14",
+                         "label": "宜宾市",
+                         "name": "yibin"
+                    },
+                    {
+                         "value": "2-1-24-15",
+                         "label": "自贡市",
+                         "name": "zigong"
+                    },
+                    {
+                         "value": "2-1-24-16",
+                         "label": "眉山市",
+                         "name": "meishan"
+                    },
+                    {
+                         "value": "2-1-24-17",
+                         "label": "雅安市",
+                         "name": "yaan"
+                    },
+                    {
+                         "value": "2-1-24-18",
+                         "label": "广元市",
+                         "name": "guangyuan"
+                    },
+                    {
+                         "value": "2-1-24-19",
+                         "label": "资阳市",
+                         "name": "ziyang"
+                    },
+                    {
+                         "value": "2-1-24-20",
+                         "label": "乐山市",
+                         "name": "leshan"
+                    },
+                    {
+                         "value": "2-1-24-21",
+                         "label": "阿坝州市",
+                         "name": "abazhou"
+                    }
+               ]
+          },
+          {
+               "label": "云南",
+               "value": "2-1-25",
+               "children": [
+                    {
+                         "value":"2-1-25-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-25-1",
+                         "label": "昆明市",
+                         "name": "kunming"
+                    },
+                    {
+                         "value": "2-1-25-2",
+                         "label": "昭通市",
+                         "name": "zhaotong"
+                    },
+                    {
+                         "value": "2-1-25-3",
+                         "label": "西双版纳市",
+                         "name": "xishuangbanna"
+                    },
+                    {
+                         "value": "2-1-25-4",
+                         "label": "玉溪市",
+                         "name": "yuxi"
+                    },
+                    {
+                         "value": "2-1-25-5",
+                         "label": "曲靖市",
+                         "name": "qujing"
+                    },
+                    {
+                         "value": "2-1-25-6",
+                         "label": "大理州市",
+                         "name": "dalizhou"
+                    },
+                    {
+                         "value": "2-1-25-7",
+                         "label": "红河州市",
+                         "name": "honghezhou"
+                    },
+                    {
+                         "value": "2-1-25-8",
+                         "label": "保山市",
+                         "name": "baoshan"
+                    },
+                    {
+                         "value": "2-1-25-9",
+                         "label": "丽江市",
+                         "name": "lijiang"
+                    },
+                    {
+                         "value": "2-1-25-10",
+                         "label": "德宏州市",
+                         "name": "dehongzhou"
+                    },
+                    {
+                         "value": "2-1-25-11",
+                         "label": "普洱市",
+                         "name": "puer"
+                    },
+                    {
+                         "value": "2-1-25-12",
+                         "label": "楚雄州市",
+                         "name": "chuxiongzhou"
+                    },
+                    {
+                         "value": "2-1-25-13",
+                         "label": "文山州市",
+                         "name": "wenshanzhou"
+                    },
+                    {
+                         "value": "2-1-25-14",
+                         "label": "临沧市",
+                         "name": "lincang"
+                    },
+                    {
+                         "value": "2-1-25-15",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "陕西",
+               "value": "2-1-26",
+               "children": [
+                    {
+                         "value":"2-1-26-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-26-1",
+                         "label": "西安市",
+                         "name": "xian"
+                    },
+                    {
+                         "value": "2-1-26-2",
+                         "label": "安康市",
+                         "name": "ankang"
+                    },
+                    {
+                         "value": "2-1-26-3",
+                         "label": "汉中市",
+                         "name": "hanzhong"
+                    },
+                    {
+                         "value": "2-1-26-4",
+                         "label": "咸阳市",
+                         "name": "xianyang"
+                    },
+                    {
+                         "value": "2-1-26-5",
+                         "label": "渭南市",
+                         "name": "weinan"
+                    },
+                    {
+                         "value": "2-1-26-6",
+                         "label": "宝鸡市",
+                         "name": "baoji"
+                    },
+                    {
+                         "value": "2-1-26-7",
+                         "label": "延安市",
+                         "name": "yanan"
+                    },
+                    {
+                         "value": "2-1-26-8",
+                         "label": "铜川市",
+                         "name": "tongchuan"
+                    },
+                    {
+                         "value": "2-1-26-9",
+                         "label": "商洛市",
+                         "name": "shangluo"
+                    },
+                    {
+                         "value": "2-1-26-10",
+                         "label": "榆林市",
+                         "name": "yulin"
+                    },
+                    {
+                         "value": "2-1-26-11",
+                         "label": "韩城市",
+                         "name": "hancheng"
+                    },
+                    {
+                         "value": "2-1-26-12",
+                         "label": "杨凌市",
+                         "name": "yangling"
+                    }
+               ]
+          },
+          {
+               "label": "甘肃",
+               "value": "2-1-27",
+               "children": [
+                    {
+                         "value":"2-1-27-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-27-1",
+                         "label": "兰州市",
+                         "name": "lanzhou"
+                    },
+                    {
+                         "value": "2-1-27-2",
+                         "label": "天水市",
+                         "name": "tianshui"
+                    },
+                    {
+                         "value": "2-1-27-3",
+                         "label": "平凉市",
+                         "name": "pingliang"
+                    },
+                    {
+                         "value": "2-1-27-4",
+                         "label": "定西市",
+                         "name": "dingxi"
+                    },
+                    {
+                         "value": "2-1-27-5",
+                         "label": "甘南市",
+                         "name": "gannan"
+                    },
+                    {
+                         "value": "2-1-27-6",
+                         "label": "白银市",
+                         "name": "baiyin"
+                    },
+                    {
+                         "value": "2-1-27-7",
+                         "label": "陇南市",
+                         "name": "longnan"
+                    },
+                    {
+                         "value": "2-1-27-8",
+                         "label": "庆阳市",
+                         "name": "qingyang"
+                    },
+                    {
+                         "value": "2-1-27-9",
+                         "label": "临夏市",
+                         "name": "linxia"
+                    },
+                    {
+                         "value": "2-1-27-10",
+                         "label": "张掖市",
+                         "name": "zhangye"
+                    },
+                    {
+                         "value": "2-1-27-11",
+                         "label": "金昌市",
+                         "name": "jinchang"
+                    },
+                    {
+                         "value": "2-1-27-12",
+                         "label": "境外输入",
+                         "name": "jingwaishuru"
+                    }
+               ]
+          },
+          {
+               "label": "宁夏回族自治区",
+               "value": "2-1-28",
+               "children": [
+                    {
+                         "value":"2-1-28-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-28-1",
+                         "label": "银川市",
+                         "name": "yinchuan"
+                    },
+                    {
+                         "value": "2-1-28-2",
+                         "label": "吴忠市",
+                         "name": "wuzhong"
+                    },
+                    {
+                         "value": "2-1-28-3",
+                         "label": "固原市",
+                         "name": "guyuan"
+                    },
+                    {
+                         "value": "2-1-28-4",
+                         "label": "中卫市",
+                         "name": "zhongwei"
+                    },
+                    {
+                         "value": "2-1-28-5",
+                         "label": "宁东市",
+                         "name": "ningdong"
+                    },
+                    {
+                         "value": "2-1-28-6",
+                         "label": "石嘴山市",
+                         "name": "shizuishan"
+                    }
+               ]
+          },
+          {
+               "label": "青海",
+               "value": "2-1-29",
+               "children": [
+                    {
+                         "value":"2-1-29-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-29-1",
+                         "label": "西宁市",
+                         "name": "xining"
+                    },
+                    {
+                         "value": "2-1-29-2",
+                         "label": "海北州市",
+                         "name": "haibeizhou"
+                    }
+               ]
+          },
+          {
+               "label": "新疆维吾尔自治区",
+               "value": "2-1-30",
+               "children": [
+                    {
+                         "value":"2-1-30-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-30-1",
+                         "label": "乌鲁木齐市",
+                         "name": "wulumuqi"
+                    },
+                    {
+                         "value": "2-1-30-2",
+                         "label": "伊犁州市",
+                         "name": "yilizhou"
+                    },
+                    {
+                         "value": "2-1-30-3",
+                         "label": "兵团第四师市",
+                         "name": "bingtuandisishi"
+                    },
+                    {
+                         "value": "2-1-30-4",
+                         "label": "兵团第九师市",
+                         "name": "bingtuandijiushi"
+                    },
+                    {
+                         "value": "2-1-30-5",
+                         "label": "兵团第十二师市",
+                         "name": "bingtuandishiershi"
+                    },
+                    {
+                         "value": "2-1-30-6",
+                         "label": "吐鲁番市",
+                         "name": "tulufanshi"
+                    },
+                    {
+                         "value": "2-1-30-7",
+                         "label": "兵团第八师市",
+                         "name": "bingtuandibashishihezishi"
+                    },
+                    {
+                         "value": "2-1-30-8",
+                         "label": "兵团第六师市",
+                         "name": "bingtuandiliushiwujiaqushi"
+                    },
+                    {
+                         "value": "2-1-30-9",
+                         "label": "昌吉州市",
+                         "name": "changjizhou"
+                    },
+                    {
+                         "value": "2-1-30-10",
+                         "label": "巴州市",
+                         "name": "bazhou"
+                    },
+                    {
+                         "value": "2-1-30-11",
+                         "label": "兵团第七师市",
+                         "name": "bingtuandiqishi"
+                    },
+                    {
+                         "value": "2-1-30-12",
+                         "label": "阿克苏地区市",
+                         "name": "akesudiqu"
+                    }
+               ]
+          },
+          {
+               "label": "西藏自治区",
+               "value": "2-1-31",
+               "children": [
+                    {
+                         "value":"2-1-31-0",
+                         "label":"不包括市",
+                         "name":""
+                    },
+                    {
+                         "value": "2-1-31-1",
+                         "label": "拉萨市",
+                         "name": "lasa"
+                    }
+               ]
+          },
+          {
+               "label": "香港",
+               "value": "2-1-32"
+          },
+          {
+               "label": "澳门",
+               "value": "2-1-33"
+          },
+          {
+               "label": "台湾",
+               "value": "2-1-34"
+          }
+     ],
+     "worldList": [
+          {
+               "name": "Afghanistan",
+               "label": "阿富汗",
+               "value": "2-2-0"
+          },
+          {
+               "name": "Albania",
+               "label": "阿尔巴尼亚",
+               "value": "2-2-1"
+          },
+          {
+               "name": "Algeria",
+               "label": "阿尔及利亚",
+               "value": "2-2-2"
+          },
+          {
+               "name": "Andorra",
+               "label": "安道尔",
+               "value": "2-2-3"
+          },
+          {
+               "name": "Angola",
+               "label": "安哥拉",
+               "value": "2-2-4"
+          },
+          {
+               "name": "Antigua and Barbuda",
+               "label": "安提瓜和巴布达",
+               "value": "2-2-5"
+          },
+          {
+               "name": "Argentina",
+               "label": "阿根廷",
+               "value": "2-2-6"
+          },
+          {
+               "name": "Armenia",
+               "label": "亚美尼亚",
+               "value": "2-2-7"
+          },
+          {
+               "name": "Australia",
+               "label": "澳大利亚",
+               "value": "2-2-8"
+          },
+          {
+               "name": "Austria",
+               "label": "奥地利",
+               "value": "2-2-9"
+          },
+          {
+               "name": "Azerbaijan",
+               "label": "阿塞拜疆",
+               "value": "2-2-10"
+          },
+          {
+               "name": "Bahamas",
+               "label": "巴哈马",
+               "value": "2-2-11"
+          },
+          {
+               "name": "Bahrain",
+               "label": "巴林",
+               "value": "2-2-12"
+          },
+          {
+               "name": "Bailiwick of Jersey",
+               "label": "泽西岛",
+               "value": "2-2-13"
+          },
+          {
+               "name": "Bangladesh",
+               "label": "孟加拉国",
+               "value": "2-2-14"
+          },
+          {
+               "name": "Barbados",
+               "label": "巴巴多斯",
+               "value": "2-2-15"
+          },
+          {
+               "name": "Belarus",
+               "label": "白俄罗斯",
+               "value": "2-2-16"
+          },
+          {
+               "name": "Belgium",
+               "label": "比利时",
+               "value": "2-2-17"
+          },
+          {
+               "name": "Belize",
+               "label": "伯利兹",
+               "value": "2-2-18"
+          },
+          {
+               "name": "Benin",
+               "label": "贝宁",
+               "value": "2-2-19"
+          },
+          {
+               "name": "Bolivia",
+               "label": "玻利维亚",
+               "value": "2-2-20"
+          },
+          {
+               "name": "Bosnia and Herzegovina",
+               "label": "波黑",
+               "value": "2-2-21"
+          },
+          {
+               "name": "Botswana",
+               "label": "博茨瓦纳",
+               "value": "2-2-22"
+          },
+          {
+               "name": "Brazil",
+               "label": "巴西",
+               "value": "2-2-23"
+          },
+          {
+               "name": "Brunei",
+               "label": "文莱",
+               "value": "2-2-24"
+          },
+          {
+               "name": "Bulgaria",
+               "label": "保加利亚",
+               "value": "2-2-25"
+          },
+          {
+               "name": "Burkina Faso",
+               "label": "布基纳法索",
+               "value": "2-2-26"
+          },
+          {
+               "name": "Burma",
+               "label": "缅甸",
+               "value": "2-2-27"
+          },
+          {
+               "name": "Cameroon",
+               "label": "喀麦隆",
+               "value": "2-2-28"
+          },
+          {
+               "name": "Canada",
+               "label": "加拿大",
+               "value": "2-2-29"
+          },
+          {
+               "name": "Cayman Is",
+               "label": "开曼群岛",
+               "value": "2-2-30"
+          },
+          {
+               "name": "Central African Republic",
+               "label": "中非共和国",
+               "value": "2-2-31"
+          },
+          {
+               "name": "Chad",
+               "label": "乍得",
+               "value": "2-2-32"
+          },
+          {
+               "name": "Chile",
+               "label": "智利",
+               "value": "2-2-33"
+          },
+          {
+               "name": "Colombia",
+               "label": "哥伦比亚",
+               "value": "2-2-34"
+          },
+          {
+               "name": "Costa Rica",
+               "label": "哥斯达黎加",
+               "value": "2-2-35"
+          },
+          {
+               "name": "Croatia",
+               "label": "克罗地亚",
+               "value": "2-2-36"
+          },
+          {
+               "name": "Cuba",
+               "label": "古巴",
+               "value": "2-2-37"
+          },
+          {
+               "name": "Cyprus",
+               "label": "塞浦路斯",
+               "value": "2-2-38"
+          },
+          {
+               "name": "Czech Republic",
+               "label": "捷克",
+               "value": "2-2-39"
+          },
+          {
+               "name": "Democratic Republic of the Congo",
+               "label": "刚果（金）",
+               "value": "2-2-40"
+          },
+          {
+               "name": "Denmark",
+               "label": "丹麦",
+               "value": "2-2-41"
+          },
+          {
+               "name": "Diamond Princess Cruise Ship",
+               "label": "钻石公主号邮轮",
+               "value": "2-2-42"
+          },
+          {
+               "name": "Djibouti",
+               "label": "吉布提",
+               "value": "2-2-43"
+          },
+          {
+               "name": "Dominican Republic",
+               "label": "多米尼加",
+               "value": "2-2-44"
+          },
+          {
+               "name": "Ecuador",
+               "label": "厄瓜多尔",
+               "value": "2-2-45"
+          },
+          {
+               "name": "Egypt",
+               "label": "埃及",
+               "value": "2-2-46"
+          },
+          {
+               "name": "El Salvador",
+               "label": "萨尔瓦多",
+               "value": "2-2-47"
+          },
+          {
+               "name": "Estonia",
+               "label": "爱沙尼亚",
+               "value": "2-2-48"
+          },
+          {
+               "name": "Ethiopia",
+               "label": "埃塞俄比亚",
+               "value": "2-2-49"
+          },
+          {
+               "name": "Faroe",
+               "label": "法罗群岛",
+               "value": "2-2-50"
+          },
+          {
+               "name": "Fiji",
+               "label": "斐济",
+               "value": "2-2-51"
+          },
+          {
+               "name": "Finland",
+               "label": "芬兰",
+               "value": "2-2-52"
+          },
+          {
+               "name": "France",
+               "label": "法国",
+               "value": "2-2-53"
+          },
+          {
+               "name": "French Guiana",
+               "label": "法属圭亚那",
+               "value": "2-2-54"
+          },
+          {
+               "name": "French Polynesia",
+               "label": "法属波利尼西亚",
+               "value": "2-2-55"
+          },
+          {
+               "name": "Gabon",
+               "label": "加蓬",
+               "value": "2-2-56"
+          },
+          {
+               "name": "Gambia",
+               "label": "冈比亚",
+               "value": "2-2-57"
+          },
+          {
+               "name": "Georgia",
+               "label": "格鲁吉亚",
+               "value": "2-2-58"
+          },
+          {
+               "name": "Germany",
+               "label": "德国",
+               "value": "2-2-59"
+          },
+          {
+               "name": "Ghana",
+               "label": "加纳",
+               "value": "2-2-60"
+          },
+          {
+               "name": "Gibraltar",
+               "label": "直布罗陀",
+               "value": "2-2-61"
+          },
+          {
+               "name": "Grand Princess",
+               "label": "至尊公主邮轮",
+               "value": "2-2-62"
+          },
+          {
+               "name": "Greece",
+               "label": "希腊",
+               "value": "2-2-63"
+          },
+          {
+               "name": "Guam",
+               "label": "关岛",
+               "value": "2-2-64"
+          },
+          {
+               "name": "Guatemala",
+               "label": "危地马拉",
+               "value": "2-2-65"
+          },
+          {
+               "name": "Guernsey",
+               "label": "根西岛",
+               "value": "2-2-66"
+          },
+          {
+               "name": "Guinea",
+               "label": "几内亚",
+               "value": "2-2-67"
+          },
+          {
+               "name": "Guyana",
+               "label": "圭亚那",
+               "value": "2-2-68"
+          },
+          {
+               "name": "Haiti",
+               "label": "海地",
+               "value": "2-2-69"
+          },
+          {
+               "name": "Honduras",
+               "label": "洪都拉斯",
+               "value": "2-2-70"
+          },
+          {
+               "name": "Hungary",
+               "label": "匈牙利",
+               "value": "2-2-72"
+          },
+          {
+               "name": "Iceland",
+               "label": "冰岛",
+               "value": "2-2-73"
+          },
+          {
+               "name": "India",
+               "label": "印度",
+               "value": "2-2-74"
+          },
+          {
+               "name": "Indonesia",
+               "label": "印度尼西亚",
+               "value": "2-2-75"
+          },
+          {
+               "name": "Iran",
+               "label": "伊朗",
+               "value": "2-2-76"
+          },
+          {
+               "name": "Iraq",
+               "label": "伊拉克",
+               "value": "2-2-77"
+          },
+          {
+               "name": "Ireland",
+               "label": "爱尔兰",
+               "value": "2-2-78"
+          },
+          {
+               "name": "Isle of Man",
+               "label": "马恩岛",
+               "value": "2-2-79"
+          },
+          {
+               "name": "Israel",
+               "label": "以色列",
+               "value": "2-2-80"
+          },
+          {
+               "name": "Italy",
+               "label": "意大利",
+               "value": "2-2-81"
+          },
+          {
+               "name": "Ivory Coast",
+               "label": "科特迪瓦",
+               "value": "2-2-82"
+          },
+          {
+               "name": "Jamaica",
+               "label": "牙买加",
+               "value": "2-2-83"
+          },
+          {
+               "name": "Japan",
+               "label": "日本",
+               "value": "2-2-84"
+          },
+          {
+               "name": "Jordan",
+               "label": "约旦",
+               "value": "2-2-85"
+          },
+          {
+               "name": "Kampuchea (Cambodia )",
+               "label": "柬埔寨",
+               "value": "2-2-86"
+          },
+          {
+               "name": "Kazakhstan",
+               "label": "哈萨克斯坦",
+               "value": "2-2-87"
+          },
+          {
+               "name": "Kenya",
+               "label": "肯尼亚",
+               "value": "2-2-88"
+          },
+          {
+               "name": "Kingdom of Bhutan",
+               "label": "不丹",
+               "value": "2-2-89"
+          },
+          {
+               "name": "Korea",
+               "label": "韩国",
+               "value": "2-2-90"
+          },
+          {
+               "name": "Kuwait",
+               "label": "科威特",
+               "value": "2-2-91"
+          },
+          {
+               "name": "Laos",
+               "label": "老挝",
+               "value": "2-2-92"
+          },
+          {
+               "name": "Latvia",
+               "label": "拉脱维亚",
+               "value": "2-2-93"
+          },
+          {
+               "name": "Lebanon",
+               "label": "黎巴嫩",
+               "value": "2-2-94"
+          },
+          {
+               "name": "Liberia",
+               "label": "利比里亚",
+               "value": "2-2-96"
+          },
+          {
+               "name": "Libya",
+               "label": "利比亚",
+               "value": "2-2-97"
+          },
+          {
+               "name": "Liechtenstein",
+               "label": "列支敦士登",
+               "value": "2-2-98"
+          },
+          {
+               "name": "Lithuania",
+               "label": "立陶宛",
+               "value": "2-2-99"
+          },
+          {
+               "name": "Luxembourg",
+               "label": "卢森堡",
+               "value": "2-2-100"
+          },
+          {
+               "name": "Madagascar",
+               "label": "马达加斯加",
+               "value": "2-2-102"
+          },
+          {
+               "name": "Malawi",
+               "label": "马拉维",
+               "value": "2-2-103"
+          },
+          {
+               "name": "Malaysia",
+               "label": "马来西亚",
+               "value": "2-2-104"
+          },
+          {
+               "name": "Maldives",
+               "label": "马尔代夫",
+               "value": "2-2-105"
+          },
+          {
+               "name": "Mali",
+               "label": "马里",
+               "value": "2-2-106"
+          },
+          {
+               "name": "Malta",
+               "label": "马耳他",
+               "value": "2-2-107"
+          },
+          {
+               "name": "Martinique",
+               "label": "马提尼克",
+               "value": "2-2-108"
+          },
+          {
+               "name": "Mauritius",
+               "label": "毛里求斯",
+               "value": "2-2-109"
+          },
+          {
+               "name": "Mexico",
+               "label": "墨西哥",
+               "value": "2-2-110"
+          },
+          {
+               "name": "Moldova",
+               "label": "摩尔多瓦",
+               "value": "2-2-111"
+          },
+          {
+               "name": "Monaco",
+               "label": "摩纳哥",
+               "value": "2-2-112"
+          },
+          {
+               "name": "Mongolia",
+               "label": "蒙古",
+               "value": "2-2-113"
+          },
+          {
+               "name": "Morocco",
+               "label": "摩洛哥",
+               "value": "2-2-114"
+          },
+          {
+               "name": "Mozambique",
+               "label": "莫桑比克",
+               "value": "2-2-115"
+          },
+          {
+               "name": "Namibia",
+               "label": "纳米比亚",
+               "value": "2-2-116"
+          },
+          {
+               "name": "Nepal",
+               "label": "尼泊尔",
+               "value": "2-2-117"
+          },
+          {
+               "name": "Netherlands",
+               "label": "荷兰",
+               "value": "2-2-118"
+          },
+          {
+               "name": "New Zealand",
+               "label": "新西兰",
+               "value": "2-2-119"
+          },
+          {
+               "name": "Nicaragua",
+               "label": "尼加拉瓜",
+               "value": "2-2-120"
+          },
+          {
+               "name": "Niger",
+               "label": "尼日尔",
+               "value": "2-2-121"
+          },
+          {
+               "name": "Nigeria",
+               "label": "尼日利亚",
+               "value": "2-2-122"
+          },
+          {
+               "name": "North Macedonia",
+               "label": "北马其顿",
+               "value": "2-2-123"
+          },
+          {
+               "name": "Northern Ireland",
+               "label": "北爱尔兰",
+               "value": "2-2-124"
+          },
+          {
+               "name": "Norway",
+               "label": "挪威",
+               "value": "2-2-125"
+          },
+          {
+               "name": "Oman",
+               "label": "阿曼",
+               "value": "2-2-126"
+          },
+          {
+               "name": "Pakistan",
+               "label": "巴基斯坦",
+               "value": "2-2-127"
+          },
+          {
+               "name": "Palestine",
+               "label": "巴勒斯坦",
+               "value": "2-2-128"
+          },
+          {
+               "name": "Panama",
+               "label": "巴拿马",
+               "value": "2-2-129"
+          },
+          {
+               "name": "Papua New Cuinea",
+               "label": "巴布亚新几内亚",
+               "value": "2-2-130"
+          },
+          {
+               "name": "Papua New Guinea",
+               "label": "巴布亚新几内亚",
+               "value": "2-2-131"
+          },
+          {
+               "name": "Paraguay",
+               "label": "巴拉圭",
+               "value": "2-2-132"
+          },
+          {
+               "name": "Peru",
+               "label": "秘鲁",
+               "value": "2-2-133"
+          },
+          {
+               "name": "Philippines",
+               "label": "菲律宾",
+               "value": "2-2-134"
+          },
+          {
+               "name": "Poland",
+               "label": "波兰",
+               "value": "2-2-135"
+          },
+          {
+               "name": "Portugal",
+               "label": "葡萄牙",
+               "value": "2-2-136"
+          },
+          {
+               "name": "Puerto Rico",
+               "label": "波多黎各",
+               "value": "2-2-137"
+          },
+          {
+               "name": "Qatar",
+               "label": "卡塔尔",
+               "value": "2-2-138"
+          },
+          {
+               "name": "Republic of Rwanda",
+               "label": "卢旺达",
+               "value": "2-2-139"
+          },
+          {
+               "name": "Republic of Serbia",
+               "label": "塞尔维亚",
+               "value": "2-2-140"
+          },
+          {
+               "name": "Reunion",
+               "label": "留尼旺",
+               "value": "2-2-141"
+          },
+          {
+               "name": "Reunion Island",
+               "label": "留尼汪",
+               "value": "2-2-142"
+          },
+          {
+               "name": "Romania",
+               "label": "罗马尼亚",
+               "value": "2-2-143"
+          },
+          {
+               "name": "Russia",
+               "label": "俄罗斯",
+               "value": "2-2-144"
+          },
+          {
+               "name": "Saint Barthelemy",
+               "label": "圣巴泰勒米",
+               "value": "2-2-145"
+          },
+          {
+               "name": "Saint Vincent and the Grenadines",
+               "label": "圣文森特和格林纳丁斯",
+               "value": "2-2-146"
+          },
+          {
+               "name": "San Marino",
+               "label": "圣马力诺",
+               "value": "2-2-147"
+          },
+          {
+               "name": "Sao Tome and Principe",
+               "label": "圣多美和普林西比",
+               "value": "2-2-148"
+          },
+          {
+               "name": "Saudi Arabia",
+               "label": "沙特阿拉伯",
+               "value": "2-2-149"
+          },
+          {
+               "name": "Senegal",
+               "label": "塞内加尔",
+               "value": "2-2-150"
+          },
+          {
+               "name": "Seychelles",
+               "label": "塞舌尔",
+               "value": "2-2-151"
+          },
+          {
+               "name": "Sierra Leone",
+               "label": "塞拉利昂",
+               "value": "2-2-152"
+          },
+          {
+               "name": "Singapore",
+               "label": "新加坡",
+               "value": "2-2-153"
+          },
+          {
+               "name": "Sint Maarten",
+               "label": "圣马丁岛",
+               "value": "2-2-154"
+          },
+          {
+               "name": "Slovakia",
+               "label": "斯洛伐克",
+               "value": "2-2-155"
+          },
+          {
+               "name": "Slovenia",
+               "label": "斯洛文尼亚",
+               "value": "2-2-156"
+          },
+          {
+               "name": "Somali",
+               "label": "索马里",
+               "value": "2-2-157"
+          },
+          {
+               "name": "South Africa",
+               "label": "南非",
+               "value": "2-2-158"
+          },
+          {
+               "name": "Spain",
+               "label": "西班牙",
+               "value": "2-2-159"
+          },
+          {
+               "name": "SriLanka",
+               "label": "斯里兰卡",
+               "value": "2-2-160"
+          },
+          {
+               "name": "St.Lucia",
+               "label": "圣卢西亚",
+               "value": "2-2-161"
+          },
+          {
+               "name": "Status Civitatis Vaticanae",
+               "label": "梵蒂冈",
+               "value": "2-2-162"
+          },
+          {
+               "name": "Sudan",
+               "label": "苏丹",
+               "value": "2-2-163"
+          },
+          {
+               "name": "Suriname",
+               "label": "苏里南",
+               "value": "2-2-164"
+          },
+          {
+               "name": "Swaziland",
+               "label": "斯威士兰",
+               "value": "2-2-165"
+          },
+          {
+               "name": "Sweden",
+               "label": "瑞典",
+               "value": "2-2-166"
+          },
+          {
+               "name": "Switzerland",
+               "label": "瑞士",
+               "value": "2-2-167"
+          },
+          {
+               "name": "Syria",
+               "label": "叙利亚",
+               "value": "2-2-168"
+          },
+          {
+               "name": "Tajikstan",
+               "label": "塔吉克斯坦",
+               "value": "2-2-169"
+          },
+          {
+               "name": "Tanzania",
+               "label": "坦桑尼亚",
+               "value": "2-2-170"
+          },
+          {
+               "name": "Thailand",
+               "label": "泰国",
+               "value": "2-2-171"
+          },
+          {
+               "name": "The Islamic Republic of Mauritania",
+               "label": "毛里塔尼亚",
+               "value": "2-2-172"
+          },
+          {
+               "name": "The Republic of Equatorial Guinea",
+               "label": "赤道几内亚",
+               "value": "2-2-173"
+          },
+          {
+               "name": "Togo",
+               "label": "多哥",
+               "value": "2-2-174"
+          },
+          {
+               "name": "Trinidad and Tobago",
+               "label": "特立尼达和多巴哥",
+               "value": "2-2-175"
+          },
+          {
+               "name": "Tunisia",
+               "label": "突尼斯",
+               "value": "2-2-176"
+          },
+          {
+               "name": "Turkey",
+               "label": "土耳其",
+               "value": "2-2-177"
+          },
+          {
+               "name": "Turkmenistan",
+               "label": "土库曼斯坦",
+               "value": "2-2-178"
+          },
+          {
+               "name": "Uganda",
+               "label": "乌干达",
+               "value": "2-2-179"
+          },
+          {
+               "name": "Ukraine",
+               "label": "乌克兰",
+               "value": "2-2-180"
+          },
+          {
+               "name": "United Arab Emirates",
+               "label": "阿联酋",
+               "value": "2-2-181"
+          },
+          {
+               "name": "United Kingdom",
+               "label": "英国",
+               "value": "2-2-182"
+          },
+          {
+               "name": "United Kingdom of Great Britain and Ireland",
+               "label": "大不列颠及北爱尔兰联合王国",
+               "value": "2-2-183"
+          },
+          {
+               "name": "United States of America",
+               "label": "美国",
+               "value": "2-2-184"
+          },
+          {
+               "name": "Uruguay",
+               "label": "乌拉圭",
+               "value": "2-2-185"
+          },
+          {
+               "name": "Venezuela",
+               "label": "委内瑞拉",
+               "value": "2-2-187"
+          },
+          {
+               "name": "Vietnam",
+               "label": "越南",
+               "value": "2-2-188"
+          },
+          {
+               "name": "Zimbabwe",
+               "label": "津巴布韦",
+               "value": "2-2-189"
+          }
+     ]
+}
